@@ -1,7 +1,7 @@
 # SpaceDrop
 An open-source CMS in JavaScript, built with Meteor and React.
 
-## Achivement unlocked, you found us.
+## Achievement unlocked, you found us.
 
 Hands to you for Googling and finding us, the next step is up to you.
 Become a co-author and member of the die-hards controlling SpaceDrop's future direction, by forking and creating a PR that gets committed.
@@ -152,7 +152,7 @@ let nodes = SD.Structure.Node.find();
     * [ ] UI for adding/removing fields on a collections
   * Structure from UI to code
     * [ ] Structures should generate code from the UI if running locally.
-    * [ ] Structures should be readable from production, but not  editable on a published application.
+    * [ ] Structures should be readable from production, but not editable on a published application.
 * SEO
   * [ ] Pagetitle
   * [ ] Metatags
@@ -169,7 +169,7 @@ let nodes = SD.Structure.Node.find();
 * Documentation
   * [ ] JSDoc on all packages/components/classes generated to a docs site.
   * [ ] Manuals for all API's such as Menu, Permission, Structure, etc.
-  * [ ] Documentation how to create a new app using a distribution (Distributions are ready sets of SpaceDrop packages one can get started using direcly).
+  * [ ] Documentation how to create a new app using a distribution (Distributions are ready sets of SpaceDrop packages one can get started using directly).
 * Security
   * [ ] Argument checks
   * [ ] Browser policy
